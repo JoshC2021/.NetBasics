@@ -1,0 +1,192 @@
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.exe
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.deps.json
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.runtimeconfig.json
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.runtimeconfig.dev.json
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.dll
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.pdb
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.Views.dll
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.Views.pdb
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.csprojAssemblyReference.cache
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.AssemblyInfoInputs.cache
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.AssemblyInfo.cs
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorAssemblyInfo.cache
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorAssemblyInfo.cs
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\IntroMVCApp.StaticWebAssets.Manifest.cache
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\IntroMVCApp.StaticWebAssets.xml
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\IntroMVCApp.styles.css
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.TagHelpers.input.cache
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.TagHelpers.output.cache
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorCoreGenerate.cache
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorTargetAssemblyInfo.cache
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorTargetAssemblyInfo.cs
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.Views.pdb
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.dll
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.pdb
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.genruntimeconfig.cache
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.csproj.CopyComplete
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Calculator.cshtml.g.cs
+C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.exe
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.deps.json
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.runtimeconfig.json
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.runtimeconfig.dev.json
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.dll
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.pdb
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.Views.dll
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.Views.pdb
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.csprojAssemblyReference.cache
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.AssemblyInfoInputs.cache
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.AssemblyInfo.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorAssemblyInfo.cache
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorAssemblyInfo.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\IntroMVCApp.StaticWebAssets.Manifest.cache
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\IntroMVCApp.StaticWebAssets.xml
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\IntroMVCApp.styles.css
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.TagHelpers.input.cache
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.TagHelpers.output.cache
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorCoreGenerate.cache
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Calculator.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorTargetAssemblyInfo.cache
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorTargetAssemblyInfo.cs
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.Views.pdb
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.dll
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.pdb
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.genruntimeconfig.cache
+C:\Users\Josh\Desktop\GC class repo\C-January-2021-Class-Repo\Day 20 - Intro to NET\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.csproj.CopyComplete
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.exe
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.deps.json
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.runtimeconfig.json
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.pdb
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.Views.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\IntroMVCApp.Views.pdb
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.AssemblyInfo.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorAssemblyInfo.cache
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorAssemblyInfo.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\IntroMVCApp.StaticWebAssets.Manifest.cache
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\staticwebassets\IntroMVCApp.StaticWebAssets.xml
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\IntroMVCApp.styles.css
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.TagHelpers.input.cache
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.TagHelpers.output.cache
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorCoreGenerate.cache
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Calculator.cshtml.g.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorTargetAssemblyInfo.cache
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.RazorTargetAssemblyInfo.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.Views.pdb
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.csproj.CopyComplete
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.dll
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.pdb
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\IntroMVCApp.genruntimeconfig.cache
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\LogIn.cshtml.g.cs
+C:\Users\Josh\source\repos\IntroMVCApp\IntroMVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\LogResult.cshtml.g.cs

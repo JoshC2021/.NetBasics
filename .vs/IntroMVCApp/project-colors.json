@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dcb38c22-5e27-4476-8eda-fd802f0df844": {
+      "ProjectGuid": "dcb38c22-5e27-4476-8eda-fd802f0df844",
+      "DisplayName": "IntroMVCApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
